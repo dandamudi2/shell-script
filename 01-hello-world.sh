@@ -1,1 +1,4 @@
-# This is first shell scripting message
+#!/bin/bash
+
+#Ctrl+S -->save
+echo "hello world"
